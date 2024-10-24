@@ -90,3 +90,128 @@ body {
 .footer {
   background-color: rgb(110, 70, 125);
 }
+/*organic-section*/
+.container {
+  position: relative;
+}
+
+.monic {
+  margin-left: 100px;
+  width: 550px;
+  height: 549.03;
+  margin-bottom: 10%;
+  padding-top: 10%;
+}
+.comic {
+  position: relative;
+  left: -600px;
+  width: 260px;
+  height: 250px;
+}
+.container-2 {
+  display: flex;
+  margin-bottom: 2%;
+}
+.vector-1-text {
+  margin-left: 5%;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 28px;
+  color: #1f1e17;
+}
+.vector-pnd-text {
+  margin-left: 5%;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 28px;
+  color: #1f1e17;
+}
+
+.vector-1-img {
+  display: flex;
+}
+.vector-png {
+  display: flex;
+}
+
+.icon-img-2 {
+  display: flex;
+}
+.icon-img-3 {
+  display: flex;
+}
+.all-container {
+  position: relative;
+  left: 52%;
+  bottom: 650px;
+}
+.lolo {
+  font-family: "Manrope", sans-serif;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 57.6px;
+  width: 507.37px;
+  height: 115.2px;
+  margin-top: -0.3px;
+  color: #1f1e17;
+}
+.lalu {
+  color: #eec044;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  font-style: italic;
+  font-family: "Covered By Your Grace", cursive;
+}
+.molo {
+  margin-bottom: 2%;
+  font-family: "Manrope", sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+  line-height: 30px;
+  color: #4baf47;
+}
+.POP {
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #878680;
+}
+
+.container-1 {
+  margin-bottom: 3%;
+}
+.container-3 {
+  margin-bottom: 3%;
+}
+.molly {
+  margin-bottom: 3%;
+}
+.polly {
+  margin-left: 9px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  color: #1f1e17;
+}
+.gop-img {
+  width: 14.66px;
+  height: 14.66px;
+  color: #c5ce38;
+  margin-top: 0.8%;
+}
+.btn {
+  width: 196.31px;
+  height: 60px;
+  border-radius: 10px;
+  background: #4baf47;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Manrope", sans-serif;
+  line-height: 30px;
+  color: #fff;
+}
