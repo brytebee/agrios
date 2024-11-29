@@ -422,3 +422,70 @@ body {
   line-height: 30px;
   color: #fff;
 }
+
+/* lilly css */
+
+.p-class{
+  background-color: #F8F7F0;
+  width: 1905px;
+  height: 406.59px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.our-s{
+    font-family: "covered by your grace";
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #eec044;
+}
+
+.li-h2{
+  font-family: "Manrope";
+  width: 340.13px;
+  height: 57.6px;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 57.6px;ced
+}
+
+.img-div{
+  width: 1905px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: 130px;
+}
+
+.green-div{
+  background-color: #4baf47;
+  width: 1170px;
+  height: 184px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  position: relative;
+  left: 370px;
+  bottom: 75px;
+  z-index: 1;
+  font-size: 1.1rem;
+  color: #fff;
+  font-family: "Manrope";
+  
+}
+
+.last-img{
+  margin: auto;
+  position: relative;
+  bottom: 200px;
+  }
